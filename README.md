@@ -32,8 +32,3 @@ Comments:
 3.	There should be an “Exit” button at the bottom of the window which will allow the user to quit the application.
 4.	All controls and variables must have meaningful names which begin with the prefixes found in Appendix B of your textbook.
 
-Grading:	
-70% - properly working program as describe above
-10% - for proper naming of controls and variables 
-10% - documentation of code (use of sufficient comments)
-10% - neat appearance and style presented to user
