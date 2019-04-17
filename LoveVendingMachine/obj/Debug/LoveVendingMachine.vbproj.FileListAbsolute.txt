@@ -1,0 +1,14 @@
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\bin\Debug\LoveVendingMachine.exe.config
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\bin\Debug\LoveVendingMachine.exe
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\bin\Debug\LoveVendingMachine.pdb
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\bin\Debug\LoveVendingMachine.xml
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.vbprojAssemblyReference.cache
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.Resources.resources
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.vbproj.GenerateResource.cache
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.exe
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.xml
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.pdb
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.VendingMachine.resources
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.OnBoardScreen.resources
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.SplashScreen1.resources
