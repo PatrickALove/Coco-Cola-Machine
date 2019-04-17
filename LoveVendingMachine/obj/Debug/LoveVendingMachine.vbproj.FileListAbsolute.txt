@@ -12,3 +12,7 @@ E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachi
 E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.VendingMachine.resources
 E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.OnBoardScreen.resources
 E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.SplashScreen1.resources
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\bin\Debug\LoveVendingMachine.exe.manifest
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\bin\Debug\LoveVendingMachine.application
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.exe.manifest
+E:\Visual Basic\LoveVendingMachine\LoveVendingMachine\obj\Debug\LoveVendingMachine.application
